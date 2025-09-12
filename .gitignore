@@ -1,0 +1,5 @@
+# Force Python as the main language
+*.py linguist-language=Python
+
+# Force Jupyter notebook as the main language
+*.ipynb linguist-language=Python
