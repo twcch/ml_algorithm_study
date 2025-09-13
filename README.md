@@ -1,1 +1,2 @@
-# DSLab
+# ML Algorithm Study
+
